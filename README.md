@@ -1,5 +1,7 @@
 # The Relaying Game
 
+##  [Link to Report](TheRelayingGame.pdf)
+
 ## Overview
 
 This repository contains the code and report for **The Relaying Game**, a research project exploring referential games with relaying agents. The project investigates how information is transmitted and retained when multiple intermediate agents relay messages, analyzing the impact on emerged languages using statistical evaluations and unsupervised grammar induction techniques.
